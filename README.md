@@ -104,7 +104,7 @@ For commercial applications or licensing inquiries, contact: [LinkedIn](https://
 
 If you use this work, please cite:
 
-Baartman, H. A. (2025). "Promises vs. Performance: A Multi-Dimensional Tool Integrating Environmental Performance Data with NLP Communication Analysis." Master's Thesis, TU Delft & Leiden University.
+Baartman, H. A. (2025). "Promises vs. Performance: A Multi-Dimensional Greenwashing Risk Assessment Tool Integrating Environmental Performance Data with NLP Communication Analysis." Master's Thesis, TU Delft & Leiden University.
 
 ## Contact
 
