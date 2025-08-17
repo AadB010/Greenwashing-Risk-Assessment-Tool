@@ -5,7 +5,7 @@ Greenwashing Risk Assessment Tool (GRAT) from my master's thesis (TU Delft &amp;
 
 The Greenwashing Risk Assessment Tool (GRAT) is a systematic framework for detecting greenwashing risk among electric utility companies through integrated environmental performance measurement and multi-dimensional communication analysis. Originally developed for European electric utilities, GRAT can be adapted for other sectors by modifying metrics, terminology, and sector-specific parameters.
 
-The complete thesis document is included in this repository as a PDF. For detailed practical usage guidance, implementation steps, and data requirements, refer to Chapter 5 of the thesis.
+The complete thesis document is included in this repository (in the docs folder) as a PDF. For detailed practical usage guidance, implementation steps, and data requirements, refer to Chapter 5 of the thesis.
 
 ## Research Background
 
